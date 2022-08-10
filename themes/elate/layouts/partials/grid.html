@@ -1,15 +1,5 @@
 	<section id="fh5co-work" data-section="work">
 		<div class="container">
-			<div class="row">
-				<div class="col-md-12 section-heading text-center">
-					<h2 class="to-animate">{{ .Title }}</h2>
-					<div class="row">
-						<div class="col-md-8 col-md-offset-2 subtext to-animate">
-							<h3>{{ with .Description }}{{ . | markdownify }}{{ end }}</h3>
-						</div>
-					</div>
-				</div>
-			</div>
 
 			{{ range .Params.sections }}
 
