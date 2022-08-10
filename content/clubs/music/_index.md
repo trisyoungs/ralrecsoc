@@ -1,7 +1,8 @@
 ---
+type: club
 title: Music Club
 description: Lessons, practice space, gear hire, and events.
-type: club
+background-image: bg.jpg
 people:
   title: "Contacts"
   items:
