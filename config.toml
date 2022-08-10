@@ -42,6 +42,10 @@ theme = "elate"
       url = "/lounge"
       name = "The R58 Lounge"
       weight = 20
+    [[menu.postpend]]
+      url = "/faq"
+      name = "FAQ"
+      weight = 30
     # postpended links
     # [[menu.postpend]]
       # url = "/clubs"

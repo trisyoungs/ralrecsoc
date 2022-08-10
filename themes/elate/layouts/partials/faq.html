@@ -1,0 +1,35 @@
+{{ if (isset .Params "faq") }}
+	<section id="faq" data-section="faq">
+
+		<div class="container">
+
+			{{ range .Params.faq }}
+
+				<div class="row">
+					<div class="col-md-12 section-heading text-center">
+						<h2>{{ .name }}</h2>
+					</div>
+				</div>
+
+				{{ range .questions }}
+
+					{{ if (isset . "show") }}
+					<div class="col-md-12">
+							<h2>Q. {{ .question }}</h2>
+							<h3>A. {{ .answer }}</h3>
+					</div>
+					<div class="clearfix visible-sm-block"></div>
+					{{ end }}
+
+				{{ end }}
+
+			{{ end }}
+			</div>
+			<div class="row">
+				<div class="col-md-12 text-center to-animate">
+					<p>{{ .Params.work.footertext | markdownify }}</p>
+				</div>
+			</div>
+
+	</section>
+{{ end }}
