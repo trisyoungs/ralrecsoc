@@ -13,7 +13,11 @@
 
       	{{ partial "title.html" .}}
 
-      	{{ partial "services.html" .}}
+        {{ partial "people.html" .}}
+
+        {{ if (isset .Params "resources") }}
+        {{ partial "resources.html" .}}
+        {{ end }}
 
        	{{ partial "footer.html" .}}
 

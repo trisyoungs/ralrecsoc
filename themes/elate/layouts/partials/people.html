@@ -1,0 +1,37 @@
+	<section id="fh5co-about" data-section="about">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 section-heading text-center">
+					{{ if (isset .Params.people "title") }}
+					<h2 class="to-animate">{{ with .Params.people.title }}{{ . | markdownify }}{{ end }}</h2>
+					{{ end }}
+					{{ if (isset .Params.people "description") }}
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2 subtext to-animate">
+							<h3>{{ with .Params.people.description }}{{ . | markdownify }}{{ end }}</h3>
+						</div>
+					</div>
+					{{ end }}
+				</div>
+			</div>
+			<div class="row">
+
+			{{ range .Params.people.items }}
+				<div class="col-md-4">
+					<div class="fh5co-person text-center to-animate">
+						<figure><img src=".//{{ .image }}" alt="{{ .imagealt }}"></figure>
+						<h3>{{ .name | markdownify }}</h3>
+						{{ if (isset . "position") }}
+						<span class="fh5co-position">{{ .position | markdownify }}</span>
+						{{ end }}
+						{{ if (isset . "email") }}
+						<ul class="social social-circle">
+							<li><a href="mailto:{{ .email }}"><i class="icon-envelope"></i></a></li>
+						</ul>
+						{{ end }}
+					</div>
+				</div>
+			{{ end }}
+			</div>
+		</div>
+	</section>
