@@ -13,9 +13,11 @@ people:
   - name: "Ronnie Brumfitt"
     position: "Secretary"
     image: ronnie.jpg
+    email: "ronnie.brumfitt@stfc.ac.uk"
   - name: "Dan Beckett"
     position: "Treasurer"
     image: dan.jpg
+    email: "dan.beckett@stfc.ac.uk"
 resources:
 - title: "Join"
   icon: icon-user-follow
@@ -25,14 +27,15 @@ resources:
   icon: icon-calendar
   link: "https://https://ralrecsoc.skedda.com/"
   description: Go the the [booking system](https://https://ralrecsoc.skedda.com/"). The booking system requires registration - a link to do so will have been sent when you joined the club.
-- title: "Gear"
-  icon: icon-calendar
-  description:  Club members store their own instruments/equipment in the Music Room, and as a common courtesy you should seek the permission of the owner before using their gear. Please get in touch with the club chair if you want to locate the owner of a particular piece of equipment. Equally, if you want to leave a piece of your gear in the room long-term then you must get in touch with the club secretary to let them know it's there, as well as its value, otherwise it will not be covered by our insurance.
-- title: "Hire"
-  description: The club itself owns some of the instruments and equipment in the room, and which is listed below. This is for general use *within the room* only, but if you have an external gig or function and want to borrow some equipment, please contact the club reps.
 - title: "Lessons"
-  icon: icon-bulb
+  icon: icon-graduation
   description: We are currently able to offer piano and guitar lessons on site with professional teachers. Please contact the team for more information.
+- title: "Hire"
+  icon: icon-volume-2
+  description: The club itself owns some of the instruments and equipment in the room, and which is listed below. This is for general use *within the room* only, but if you have an external gig or function and want to borrow some equipment, please contact the club reps.
+- title: "Gear"
+  icon: icon-microphone
+  description:  Club members store their own instruments/equipment in the Music Room, and as a common courtesy you should seek the permission of the owner before using their gear. Please get in touch with the club chair if you want to locate the owner of a particular piece of equipment. Equally, if you want to leave a piece of your gear in the room long-term then you must get in touch with the club secretary to let them know it's there, as well as its value, otherwise it will not be covered by our insurance.
 ---
 
 The RAL Music Club provides facilities, equipment and instruments for its members to use. Membership costs £1/month and you must be a member of the Music Club in order to use the music room or borrow any of the instruments or gear. Membership entitles you to use the music room in R58 for practice or lessons at any time during the week or weekend.
