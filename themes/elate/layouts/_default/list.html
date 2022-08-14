@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
+<html>
+    <head>
+        {{ partial "head.html" .}}
+    </head>
+
+    <body>
+        {{ partial "nav.html" .}}
+
+      	{{ partial "title.html" .}}
+
+        {{ if (isset .Params "trio") }}
+       	{{ partial "trio.html" .}}
+        {{ end }}
+
+        {{ if (isset .Params "people") }}
+        {{ partial "people.html" .}}
+        {{ end }}
+
+        {{ partial "content.html" .}}
+
+        {{ if (isset .Params "resources") }}
+        {{ partial "resources.html" .}}
+        {{ end }}
+
+       	{{ partial "footer.html" .}}
+
+        {{ partial "js.html" .}}
+    </body>
+</html>

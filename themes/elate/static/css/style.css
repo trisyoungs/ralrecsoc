@@ -1399,4 +1399,109 @@ h1, h2, h3, h4, h5, h6 {
   animation-fill-mode: both;
 }
 
+
+#section-content {
+  position: relative;
+  bottom: 0;
+  padding-bottom: 7em;
+}
+@media screen and (max-width: 768px) {
+  #section-content {
+    padding-bottom: 3em;
+  }
+}
+#section-content > div {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+}
+#section-content .fh5co-block {
+  width: 33.33%;
+  float: left;
+  text-align: center;
+  font-size: 16px;
+  min-height: 300px;
+  vertical-align: middle;
+  padding: 40px;
+  background: #fff;
+  -webkit-box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
+  -moz-box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
+  -ms-box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
+  -o-box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
+  box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
+  z-index: 7;
+  flex-grow: 1;
+  background-size: cover;
+  position: relative;
+  backgroun-repeat: no-repeat;
+}
+@media screen and (max-width: 768px) {
+  #section-content .fh5co-block {
+    width: 100%;
+  }
+}
+#section-content .fh5co-block > .overlay-darker {
+  z-index: 8;
+  opacity: .5;
+  background: #474747;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+#section-content .fh5co-block > .overlay {
+  background: #fff;
+  opacity: 1;
+  z-index: 9;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+#section-content .fh5co-block > .fh5co-text {
+  position: relative;
+  z-index: 10;
+}
+#section-content .fh5co-block > .fh5co-text .section-content-icon {
+  font-size: 50px;
+  color: #c24d67;
+  margin-bottom: 30px;
+  display: block;
+}
+#section-content .fh5co-block h2 {
+  font-size: 24px;
+  font-weight: 400;
+}
+#section-content .fh5co-block:hover > .overlay, #section-content .fh5co-block:focus > .overlay {
+  opacity: 0;
+  z-index: 9;
+}
+#section-content .fh5co-block:hover > .fh5co-text, #section-content .fh5co-block:focus > .fh5co-text {
+  color: #fff;
+}
+#section-content .fh5co-block:hover > .fh5co-text .section-content-icon, #section-content .fh5co-block:focus > .fh5co-text .section-content-icon {
+  color: #fff;
+}
+#section-content .fh5co-block:hover h2, #section-content .fh5co-block:focus h2 {
+  color: #fff;
+}
+#section-content .fh5co-block:hover .btn, #section-content .fh5co-block:focus .btn {
+  border: 2px solid #fff !important;
+  background: transparent;
+}
+#section-content .fh5co-block:hover .btn:hover, #section-content .fh5co-block:focus .btn:hover {
+  background: #c24d67 !important;
+  border: 2px solid #c24d67 !important;
+}
+
 /*# sourceMappingURL=style3.css.map */

@@ -13,6 +13,10 @@
 
       	{{ partial "title.html" .}}
 
+        {{ if (isset .Params "trio") }}
+       	{{ partial "trio.html" .}}
+        {{ end }}
+
         {{ if (isset .Params "people") }}
         {{ partial "people.html" .}}
         {{ end }}
