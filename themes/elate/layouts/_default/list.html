@@ -23,6 +23,10 @@
 
         {{ partial "content.html" .}}
 
+        {{ if (isset .Params "faq") }}
+        {{ partial "faq.html" .}}
+        {{ end }}
+
         {{ if (isset .Params "resources") }}
         {{ partial "resources.html" .}}
         {{ end }}

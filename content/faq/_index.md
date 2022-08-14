@@ -1,5 +1,4 @@
 ---
-type: general
 title: Frequently Asked Questions
 description: "It's the RecSoc knowledgebase!"
 background-image: bg.jpg
