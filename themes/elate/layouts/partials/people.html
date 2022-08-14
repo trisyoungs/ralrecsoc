@@ -23,7 +23,7 @@
 						<figure><img src=".//{{ .image }}" alt="{{ .imagealt }}"></figure>
 						<h3>{{ .name | markdownify }}</h3>
 						{{ if (isset . "position") }}
-						<span class="POOP-position">{{ .position | markdownify }}</span>
+						<span class="position">{{ .position | markdownify }}</span>
 						{{ end }}
 						{{ if (isset . "email") }}
 						<ul class="social social-circle">

@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="row">
 			{{ range .Params.resources }}
-				<div class="col-md-6 col-sm-6 POOP-resource to-animate">
+				<div class="col-md-6 col-sm-6 resource to-animate">
 					{{ if (isset . "link") }}<a href="{{ .link }}">{{ end }}
 					<i class="icon to-animate-2 {{ .icon | markdownify }}"></i>
 					{{ if (isset . "link") }}

@@ -16,7 +16,7 @@
 					<div class="person text-center to-animate">
 						<figure><img src="images/{{ .img }}" alt="{{ .alt }}"></figure>
 						<h3>{{ .name | markdownify }}</h3>
-						<span class="POOP-position">{{ .position | markdownify }}</span>
+						<span class="position">{{ .position | markdownify }}</span>
 						<p>{{ .description | markdownify }}</p>
 						<ul class="social social-circle">
 						{{ range .social }}
