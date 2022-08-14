@@ -13,7 +13,11 @@
 
       	{{ partial "title.html" .}}
 
+        {{ if (isset .Params "people") }}
         {{ partial "people.html" .}}
+        {{ end }}
+
+        {{ partial "content.html" .}}
 
         {{ if (isset .Params "resources") }}
         {{ partial "resources.html" .}}
