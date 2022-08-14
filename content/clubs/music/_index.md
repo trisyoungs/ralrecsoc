@@ -26,7 +26,7 @@ resources:
 - title: "Book the Room"
   icon: icon-calendar
   link: "https://https://ralrecsoc.skedda.com/"
-  description: Go the the [booking system](https://https://ralrecsoc.skedda.com/"). The booking system requires registration - a link to do so will have been sent when you joined the club.
+  description: Go the the [booking system](https://ralrecsoc.skedda.com). The booking system requires registration - a link to do so will have been sent when you joined the club.
 - title: "Lessons"
   icon: icon-graduation
   description: We are currently able to offer piano and guitar lessons on site with professional teachers. Please contact the team for more information.
@@ -42,4 +42,4 @@ The RAL Music Club provides facilities, equipment and instruments for its member
 
 Members of the club use the facilities for a variety of purposes ranging from solo or private practice through to taking lessons or playing with a full band. If you're interested in finding other people to play / jam with, let us know and we can try to hook you up.
 
-The club periodically holds live music/open mic nights in the RecSoc lounge where club members can perform to other music club members and campus staff alike, and the RecSoc occasionally arranges larger events which club members can perform at.  We also maintain a list of members, so can easily put you in contact with other musicians on site if you want to join a band or just meet up to practice together.
+The club periodically holds live music/open mic nights in the RecSoc lounge where club members can perform to other music club members and campus staff alike, and the RecSoc occasionally arranges larger events which club members can perform at.
