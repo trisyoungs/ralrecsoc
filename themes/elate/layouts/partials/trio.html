@@ -1,12 +1,12 @@
-	<section id="fh5co-intro">
+	<section id="intro">
 		<div class="container">
 			<div class="row row-bottom-padded-lg">
 				{{ range .Params.trio }}
-				<div class="fh5co-block to-animate" style="background-image: url(images/{{ .img }});">
+				<div class="section-block to-animate" style="background-image: url(images/{{ .img }});">
 					<div class="overlay-darker"></div>
 					<div class="overlay"></div>
-					<div class="fh5co-text">
-						<i class="fh5co-intro-icon {{ .icon }}"></i>
+					<div class="item-grid-item-text">
+						<i class="intro-icon {{ .icon }}"></i>
 						<h2>{{ .title }}</h2>
 						<p>{{ .description }}</p>
 						{{ if .button}}

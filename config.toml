@@ -6,8 +6,6 @@ theme = "elate"
 
 [params]
 
-  custom_css = ["css/custom1.css", "css/custom2.css"]
-
   # Meta
   author = "RAL RecSoc Committee"
   description = "Website for the RAL Recreational Society"
@@ -21,10 +19,6 @@ theme = "elate"
     brand = "RAL RecSoc"
     home = "Home"
     contact = "Contact"
-    # work = "Join"
-    # testimonials = "Testimonials"
-    # services = "Services"
-    # about = "About"
     #
     # # You can add custom links before or after the default links
     # # Assign a weight to define the order
