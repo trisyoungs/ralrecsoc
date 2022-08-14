@@ -78,8 +78,8 @@
 		    	$('.js-main-nav-toggle').removeClass('active');
 		    }
 
-		    event.preventDefault();
-		    return false;
+		    // event.preventDefault();
+		    return true;
 		});
 
 
