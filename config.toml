@@ -19,25 +19,25 @@ theme = "elate"
   # Navigation
   [params.navigation]
     brand = "RAL RecSoc"
-    # home = "About"
-    #contact = "Contact"
+    home = "Home"
+    contact = "Contact"
     # work = "Join"
     # testimonials = "Testimonials"
     # services = "Services"
     # about = "About"
-
-    # You can add custom links before or after the default links
-    # Assign a weight to define the order
-
+    #
+    # # You can add custom links before or after the default links
+    # # Assign a weight to define the order
+    #
     # prepended links
-    [[menu.prepend]]
-      url = "/"
-      name = "Home"
-      weight = 1
-    [[menu.prepend]]
-      url = "/#contact"
-      name = "Contact"
-      weight = 2
+    # [[menu.prepend]]
+    #   url = "/"
+    #   name = "Home"
+    #   weight = 1
+    [[menu.postpend]]
+      url = "/join"
+      name = "Join"
+      weight = 5
     [[menu.postpend]]
       url = "/clubs"
       name = "Clubs & Activities"
@@ -50,11 +50,6 @@ theme = "elate"
       url = "/faq"
       name = "FAQ"
       weight = 30
-    # postpended links
-    # [[menu.postpend]]
-      # url = "/clubs"
-      # name = "Clubs & Activities"
-      # weight = 10
 
   # Hero section
   [params.hero]
