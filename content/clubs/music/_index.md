@@ -25,7 +25,7 @@ resources:
   link: https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyA_pNqwwM-xEi5PZzLTPq4FUOUpST1pGRTJITE5LRVpTNUNNTkhPWDhIRCQlQCN0PWcu
 - title: "Book the Room"
   icon: icon-calendar
-  link: "https://https://ralrecsoc.skedda.com/"
+  link: "https://ralrecsoc.skedda.com/"
   description: Go the the [booking system](https://ralrecsoc.skedda.com). The booking system requires registration - a link to do so will have been sent when you joined the club.
 - title: "Lessons"
   icon: icon-graduation
