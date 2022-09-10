@@ -13,7 +13,7 @@ sections:
       image: circuittraining.jpg
       url: circuit-training
     - name: Gym
-      image: weighttraining.jpg
+      image: gym.jpg
       url: gym
   - name: "Mind & Body"
     items:
