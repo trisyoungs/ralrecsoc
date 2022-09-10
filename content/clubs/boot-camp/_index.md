@@ -6,7 +6,7 @@ background-image: bg.jpg
 people:
   title: "Contacts"
   items:
-  - name: "Tristan Youngs"
+  - name: "Joe Moxon"
     image: moxon.jpg
     position: "Organiser"
     email: "joe.moxon@ukri.org"
