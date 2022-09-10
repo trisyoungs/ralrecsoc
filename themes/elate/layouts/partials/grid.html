@@ -11,7 +11,7 @@
 
 				{{ range .items }}
 
-					{{ if (isset . "show") }}
+					{{ if not (isset . "hidden") }}
 					<div class="col-md-4 col-sm-6 col-xxs-12">
 						<a href="{{ .url }}" class="item-grid-item to-animate">
 							<img src="./{{ .image }}" alt="{{ .alt }}" class="img-responsive">
