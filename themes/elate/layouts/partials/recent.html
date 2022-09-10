@@ -1,0 +1,19 @@
+	<section id="item-grid" data-section="work">
+		<div class="container">
+
+			{{ range .Pages }}
+				<div>
+					<a href="{{ .Permalink }}" class="item-grid-item to-animate">
+						<img src="TODO" class="img-responsive">
+						<div class="item-grid-item-text">
+						<h2>{{ .Title }}</h2>
+						<span>{{ .Description }}</span>
+						</div>
+					</a>
+				</div>
+				<div class="clearfix visible-sm-block"></div>
+			{{ end }}
+
+		</div>
+
+	</section>
