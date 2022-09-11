@@ -1,0 +1,33 @@
+name: PR
+
+on:
+  push:
+    branches:
+    - main
+
+on:
+  pull_request:
+    branches:
+    - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Install Prerequisites
+      run: |
+        set -ex
+        wget https://github.com/gohugoio/hugo/releases/download/v${{ parameters.hugo_version }}/hugo_extended_${{ parameters.hugo_version }}_Linux-64bit.deb -O '$(Pipeline.Workspace)/hugo.deb'
+        sudo dpkg -i $(Pipeline.Workspace)/hugo*.deb
+        sudo npm install -g link-checker
+    - name: Build Site
+      run: |
+        set -ex
+        cd web
+        npm install
+        hugo
+    - name: Check Links
+      run: |
+        set -ex
+        link-checker --disable-external public/
