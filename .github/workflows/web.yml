@@ -8,6 +8,9 @@ on:
     branches:
     - '*'
 
+env:
+  HUGO_VERSION: '0.98.0'
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,8 +19,8 @@ jobs:
     - name: Install Prerequisites
       run: |
         set -ex
-        wget https://github.com/gohugoio/hugo/releases/download/v${{ parameters.hugo_version }}/hugo_extended_${{ parameters.hugo_version }}_Linux-64bit.deb -O '$(Pipeline.Workspace)/hugo.deb'
-        sudo dpkg -i $(Pipeline.Workspace)/hugo*.deb
+        wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb -O ${RUNNER_TEMP}/hugo.deb'
+        sudo dpkg -i ${RUNNER_TEMP}/hugo*.deb
         sudo npm install -g link-checker
     - name: Build Site
       run: |
