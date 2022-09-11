@@ -25,7 +25,6 @@ jobs:
     - name: Build Site
       run: |
         set -ex
-        npm install
         hugo
     - name: Check Links
       run: |
