@@ -983,6 +983,15 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
 }
 
+#faq .section-heading {
+  padding-top: 50px;
+  padding-bottom: 0px;
+}
+
+#contact .section-heading {
+  padding-bottom: 0px;
+}
+
 .section-heading {
   float: left;
   width: 100%;
