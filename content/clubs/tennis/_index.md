@@ -15,10 +15,10 @@ people:
     position: "Contact"
     email: "pawala.ariyathilaka@stfc.ac.uk"
 resources:
-- title: "Book the Room"
+- title: "Book a Court"
   icon: icon-calendar
   link: "https://ralrecsoc.skedda.com/"
-  description: Go the the [booking system](https://ralrecsoc.skedda.com). The booking system requires registration - a link to do so will have been sent when you joined the club.
+  description: Go the the [booking system](https://ralrecsoc.skedda.com) to book times on court. The booking system requires registration - a link to do so will have been sent when you joined the club.
 ---
 
 The tennis club is free to join and provides rackets and balls to any members who want to play. The club offers casual play and coaching sessions and there are also organised competitions for those that prefer more competitive match play. The courts can be booked for confirmed lunchtime sessions or they can be used casually by members outside of lunchtimes, evenings and weekends

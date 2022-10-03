@@ -6,7 +6,7 @@ sections:
   - name: "Fitness Training"
     items:
     - name: Boot Camp
-      image: bootcamp.jpg
+      image: boot-camp.jpg
       url: boot-camp
     - name: Circuit Training
       hidden: true
@@ -33,7 +33,7 @@ sections:
       image: angling.jpg
       url: angling
     - name: Aunt Sally
-      image: auntsally.jpg
+      image: aunt-sally.jpg
       url: aunt-sally
     - name: Fencing
       image: fencing.jpg
@@ -49,7 +49,7 @@ sections:
       image: rounders.jpg
       url: rounders
     - name: Table Tennis
-      image: tabletennis.jpg
+      image: table-tennis.jpg
       url: table-tennis
     - name: Tennis
       image: tennis.jpg
@@ -57,7 +57,7 @@ sections:
   - name: "Hobbies & Pastimes"
     items:
     - name: Arts & Crafts
-      image: artsandcraft.jpg
+      image: arts-crafts.jpg
       url: arts-crafts
     - name: Music Club
       image: music.jpg
