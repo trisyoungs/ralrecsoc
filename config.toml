@@ -5,6 +5,9 @@ languageCode = "en-us"
 theme = "elate"
 relativeURLs = false
 
+# Disable generation of taxonomies
+disableKinds = ['taxonomy', 'term']
+
 [params]
 
   # Meta
