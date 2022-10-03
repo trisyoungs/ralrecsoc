@@ -64,7 +64,6 @@ sections:
       image: music.jpg
       url: music
     - name: Photography
-      hidden: true
       image: photography.jpg
       url: photography
 ---
