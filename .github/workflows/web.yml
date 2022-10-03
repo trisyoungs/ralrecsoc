@@ -22,11 +22,11 @@ jobs:
         wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb -O ${RUNNER_TEMP}/hugo.deb
         sudo dpkg -i ${RUNNER_TEMP}/hugo*.deb
         sudo npm install -g link-checker
-    - name: Build Site
-      run: |
-        set -ex
-        hugo
     - name: Check Links
       run: |
         set -ex
+        # Generate site with relative URLs since link-checker doesn't seem to understand them and reports them as broken
+        sed -i "s/relativeURLs = [a-z]*/relativeURLs = true/g" config.toml
+        hugo
         link-checker --disable-external public/
+        rm -rf public
