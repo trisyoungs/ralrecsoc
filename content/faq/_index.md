@@ -20,7 +20,7 @@ faq:
     answer: "Amongst other things, yes! As well as alcoholic beverages we have soft drinks, hot drinks, and snacks. Of course, we expect any alcoholic drinks to be consumed responsibly and on the RecSoc premises, and we operate a strict [Challenge 25](https://wsta.co.uk/challenge-25/) policy."
     show: true
   - question: "OK, so what else is in the Lounge?"
-    answer: "Big TV, comfy seats, plants, a pool table, dartboard, and artwork created by our own [Arts & Crafts](/clubs/arts-crafts) club."
+    answer: "Big TV, comfy seats, plants, a pool table, dartboard, and artwork created by our own [Arts & Crafts](/clubs/arts-crafts/) club."
     show: true
   - question: "I heard there's a barbecue there too?"
     answer: "Yes there is. In 2022 we purchased a shiny new gas-fuelled outdoor kitchen which you can use for a gathering or leaving do by prior arrangement. Fill out the [lounge booking form](/forms/R58_Lounge_Booking.pdf) to get the ball rolling."
