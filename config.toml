@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "https://www.ralrecsoc.com"
 title = "RAL Recreational Society"
 languageCode = "en-us"
 theme = "elate"
