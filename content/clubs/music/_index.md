@@ -7,16 +7,16 @@ people:
   title: "Contacts"
   items:
   - name: "Tristan Youngs"
-    image: tris.jpg
+    image: youngs.jpg
     position: "Chairperson"
     email: "tristan.youngs@stfc.ac.uk"
   - name: "Ronnie Brumfitt"
     position: "Secretary"
-    image: ronnie.jpg
+    image: brumfitt.jpg
     email: "ronnie.brumfitt@stfc.ac.uk"
   - name: "Dan Beckett"
     position: "Treasurer"
-    image: dan.jpg
+    image: beckett.jpg
     email: "dan.beckett@stfc.ac.uk"
 resources:
 - title: "Join"
