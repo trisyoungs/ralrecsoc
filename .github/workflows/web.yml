@@ -28,5 +28,5 @@ jobs:
         # Generate site with relative URLs since link-checker doesn't seem to understand them and reports them as broken
         sed -i "s/relativeURLs = [a-z]*/relativeURLs = true/g" config.toml
         hugo
-        link-checker public/ --url-ignore=".*/#" --url-ignore=".*/index.html#"
+        link-checker public/ --url-ignore="#$"
         rm -rf public
