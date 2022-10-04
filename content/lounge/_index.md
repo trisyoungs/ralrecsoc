@@ -7,12 +7,12 @@ resources:
 - title: "Book the Lounge"
   show: true
   icon: icon-calendar
-  link: "/forms/R58-Lounge-Booking-Form.pdf"
+  link: "/forms/R58-Lounge-Booking.pdf"
   description: The Lounge can be booked for work or private events, inside or outside of work hours. Please fill out the [booking form](/forms/R58_Lounge_Booking.pdf) with your requirements.
 - title: "FAQ"
   show: true
   icon: icon-question
-  link: "/faq"
+  link: "/faq/"
   description: "The R58 Lounge has it's own section in the [FAQ](/faq) covering commonly-asked questions."
 ---
 
