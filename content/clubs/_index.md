@@ -18,7 +18,7 @@ sections:
   - name: "Mind & Body"
     items:
     - name: Morris Dancing
-      image: morrisdancing.jpg
+      image: morris-dancing.jpg
       url: morris-dancing/
     - name: Pilates
       image: pilates.jpg
