@@ -9,7 +9,7 @@ faq:
     answer: "We're close to the Visitor's Centre (R112) on the main RAL site - you can go through the turnstile in the fence to get to the RecSoc. The South Car park is the closest car park."
     show: true
   - question: "Can anyone use the RAL RecSoc and its facilities?"
-    answer: "We are a members-only club focussing on the employees, contractors, and students of companies located on the Harwell Science Campus. Our [joining page](/join) gives you all the relevant information."
+    answer: "We are a members-only club focussing on the employees, contractors, and students of companies located on the Harwell Science Campus. Our [joining page](/join/) gives you all the relevant information."
     show: true
 - name: "The Lounge"
   questions:
