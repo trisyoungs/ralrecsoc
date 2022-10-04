@@ -32,19 +32,19 @@ disableKinds = ['taxonomy', 'term']
     #   name = "Home"
     #   weight = 1
     [[menu.postpend]]
-      url = "/join"
+      url = "/join/"
       name = "Join"
       weight = 5
     [[menu.postpend]]
-      url = "/clubs"
+      url = "/clubs/"
       name = "Clubs & Activities"
       weight = 10
     [[menu.postpend]]
-      url = "/lounge"
+      url = "/lounge/"
       name = "The R58 Lounge"
       weight = 20
     [[menu.postpend]]
-      url = "/faq"
+      url = "/faq/"
       name = "FAQ"
       weight = 30
 
