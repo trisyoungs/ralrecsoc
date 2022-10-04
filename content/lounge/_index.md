@@ -13,7 +13,7 @@ resources:
   show: true
   icon: icon-question
   link: "/faq/"
-  description: "The R58 Lounge has it's own section in the [FAQ](/faq) covering commonly-asked questions."
+  description: "The R58 Lounge has it's own section in the [FAQ](/faq/) covering commonly-asked questions."
 ---
 
 The recently-refurbished lounge offers a welcoming space to hang out in with your colleagues, or to use for quiet meeting. Our fully-licensed bar is open most lunchtimes for the sale for snacks, soft drinks, hot drinks, and alcoholic beverages, and we have a relatively large outdoor green space with picnic tables for your use.
