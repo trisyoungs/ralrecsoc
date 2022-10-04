@@ -9,7 +9,7 @@ people:
   - name: "Chris Howe"
     image: howe.jpg
     position: "Contact"
-    email: ris.howe@stfc.ac.uk"
+    email: "chris.howe@stfc.ac.uk"
 ---
 
 Lepton Morris meet weekly on Thursdays from 16:30 to 17:30 in the RecSoc Sports Hall.  We have a number of regular members from RAL and others who join us as associate members of the RecSoc.  
