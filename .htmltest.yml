@@ -1,0 +1,4 @@
+DirectoryPath: "public/"
+IgnoreInternalEmptyHash: true
+IgnoreAltMissing: true
+ExternalTimeout: 30

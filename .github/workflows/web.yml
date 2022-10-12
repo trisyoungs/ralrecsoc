@@ -19,14 +19,16 @@ jobs:
     - name: Install Prerequisites
       run: |
         set -ex
+        # hugo
         wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb -O ${RUNNER_TEMP}/hugo.deb
         sudo dpkg -i ${RUNNER_TEMP}/hugo*.deb
-        sudo npm install -g link-checker
-    - name: Build Site
+        # htmltest
+        curl https://raw.githubusercontent.com/wjdp/htmltest/master/godownloader.sh | sudo bash -s -- -b /usr/local/bin
+    - name: Generate Site
       run: |
         set -ex
         hugo
-    - name: Check Links
+    - name: Check links
       run: |
         set -ex
-        link-checker --disable-external public/
+        htmltest

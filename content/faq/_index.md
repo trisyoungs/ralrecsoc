@@ -9,7 +9,7 @@ faq:
     answer: "We're close to the Visitor's Centre (R112) on the main RAL site - you can go through the turnstile in the fence to get to the RecSoc. The South Car park is the closest car park."
     show: true
   - question: "Can anyone use the RAL RecSoc and its facilities?"
-    answer: "We are a members-only club focussing on the employees, contractors, and students of companies located on the Harwell Science Campus. Our [joining page](/join) gives you all the relevant information."
+    answer: "We are a members-only club focussing on the employees, contractors, and students of companies located on the Harwell Science Campus. Our [joining page](/join/) gives you all the relevant information."
     show: true
 - name: "The Lounge"
   questions:
@@ -20,7 +20,7 @@ faq:
     answer: "Amongst other things, yes! As well as alcoholic beverages we have soft drinks, hot drinks, and snacks. Of course, we expect any alcoholic drinks to be consumed responsibly and on the RecSoc premises, and we operate a strict [Challenge 25](https://wsta.co.uk/challenge-25/) policy."
     show: true
   - question: "OK, so what else is in the Lounge?"
-    answer: "Big TV, comfy seats, plants, a pool table, dartboard, and artwork created by our own [Arts & Crafts](/clubs/arts-crafts) club."
+    answer: "Big TV, comfy seats, plants, a pool table, dartboard, and artwork created by our own [Arts & Crafts](/clubs/arts-crafts/) club."
     show: true
   - question: "I heard there's a barbecue there too?"
     answer: "Yes there is. In 2022 we purchased a shiny new gas-fuelled outdoor kitchen which you can use for a gathering or leaving do by prior arrangement. Fill out the [lounge booking form](/forms/R58_Lounge_Booking.pdf) to get the ball rolling."

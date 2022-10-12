@@ -7,63 +7,63 @@ sections:
     items:
     - name: Boot Camp
       image: boot-camp.jpg
-      url: boot-camp
+      url: boot-camp/
     - name: Circuit Training
       hidden: true
       image: circuittraining.jpg
       url: circuit-training
     - name: Gym
       image: gym.jpg
-      url: gym
+      url: gym/
   - name: "Mind & Body"
     items:
     - name: Morris Dancing
-      image: morrisdancing.jpg
-      url: morris-dancing
+      image: morris-dancing.jpg
+      url: morris-dancing/
     - name: Pilates
       image: pilates.jpg
-      url: pilates
+      url: pilates/
     - name: Yoga
       image: yoga.jpg
-      url: yoga
+      url: yoga/
   - name: "Sports"
     items:
     - name: Angling / Fishing
       hidden: true
       image: angling.jpg
-      url: angling
+      url: angling/
     - name: Aunt Sally
       image: aunt-sally.jpg
-      url: aunt-sally
+      url: aunt-sally/
     - name: Fencing
       image: fencing.jpg
-      url: fencing
+      url: fencing/
     - name: Football
       image: football.jpg
-      url: football
+      url: football/
     - name: Golf
       hidden: true
       image: golf.jpg
-      url: golf
+      url: golf/
     - name: Rounders
       hidden: true
       image: rounders.jpg
-      url: rounders
+      url: rounders/
     - name: Table Tennis
       image: table-tennis.jpg
-      url: table-tennis
+      url: table-tennis/
     - name: Tennis
       image: tennis.jpg
-      url: tennis
+      url: tennis/
   - name: "Hobbies & Pastimes"
     items:
     - name: Arts & Crafts
       image: arts-crafts.jpg
-      url: arts-crafts
+      url: arts-crafts/
     - name: Music Club
       image: music.jpg
-      url: music
+      url: music/
     - name: Photography
       image: photography.jpg
-      url: photography
+      url: photography/
 ---
