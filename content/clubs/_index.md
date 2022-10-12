@@ -66,4 +66,7 @@ sections:
     - name: Photography
       image: photography.jpg
       url: photography/
+    - name: Snooker
+      image: snooker.jpg
+      url: snooker/
 ---
