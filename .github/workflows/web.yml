@@ -1,4 +1,4 @@
-name: PR
+name: Web
 
 on:
   push:
@@ -32,3 +32,15 @@ jobs:
       run: |
         set -ex
         htmltest
+    - name: Upload
+      if: github.ref == 'refs/heads/main'
+      env:
+        HOST_ID: ${{ secrets.SERVER_IDENTITY }}
+        HOST_IP: ${{ secrets.SERVER_IP }}
+        HOST_DEST_DIR: ${{ secrets.SERVER_DIRECTORY }}
+        USER_NAME: ${{ secrets.UPLOADER_NAME }}
+        USER_ID: ${{ secrets.UPLOADER_IDENTITY }}
+      run: |
+        echo "$USER_ID" > ./id_rsa
+        echo "$HOST_ID" > ./host_id
+        rsync -axz --delete -e "ssh -o UserKnownHistsFile=./host_id -i ./id_rsa -p 2212 -l $USER_NAME" public/ ${HOST_IP}:${HOST_DEST_DIR}
