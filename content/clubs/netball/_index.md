@@ -6,12 +6,10 @@ background-image: bg.jpg
 people:
   title: "Contacts"
   items:
-  - name: "Sarah Needham"
-    image: needham.jpg
+  - name: "Téa Seitis"
+    image: seitis.jpg
     position: "Contact"
-    email: "sarah.needham@stfc.ac.uk"
+    email: "aristea.seitis@stfc.ac.uk"
 ---
 
-Netball sessions are held on the RAL RecSoc tennis courts one lunchtime a week, with sessions involving an element of training as well as friendly informal games.  We welcome all abilities, even if you haven't played since leaving school
-and, suffice to say, running around and throwing a ball is great fun and a really good way to get some fresh air and exercise during your lunchbreak.
-
+The Netball Club provides facilities and equipment for lunchtime games. Netball at RAL is open to men and women of all ages and ability. There are games or training sessions on the RAL tennis courts on Tuesday lunchtimes, depending on player availability and the weather.
