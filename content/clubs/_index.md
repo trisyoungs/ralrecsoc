@@ -45,6 +45,9 @@ sections:
       hidden: true
       image: golf.jpg
       url: golf/
+    - name: Netball
+      image: netball.jpg
+      url: netball/
     - name: Rounders
       hidden: true
       image: rounders.jpg
