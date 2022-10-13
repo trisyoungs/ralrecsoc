@@ -29,6 +29,7 @@ jobs:
         set -ex
         hugo
     - name: Check links
+      if: github.ref != 'refs/heads/main'
       run: |
         set -ex
         htmltest
