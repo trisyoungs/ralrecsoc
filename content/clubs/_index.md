@@ -42,7 +42,6 @@ sections:
       image: football.jpg
       url: football/
     - name: Golf
-      hidden: true
       image: golf.jpg
       url: golf/
     - name: Netball
