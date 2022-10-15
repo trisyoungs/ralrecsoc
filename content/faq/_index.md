@@ -37,24 +37,12 @@ faq:
     answer: "You can hire the Lounge during work hours on a weekday, in the evenings, or at weekends. Bear in mind that during work hours there is unlikely to be any parking available. Conversely, for weekend events you will need to contact RAL Security and arrange with them to open up the barriers on Road Five in order to access the building."
     show: true
   - question: "What's the maximum capacity of the Lounge?"
-    answer: "With the normal table arrangement, approximately XXX seated. Moving the tables to the side gives you a capacity around XXX standing room only."
+    answer: "With the normal table arrangement, approximately 50 seated. Moving the tables to the side gives you a capacity around 100 standing room only."
     show: true
   - question: "Can we have the bar open for a private event?"
     answer: "Yes. Make the relevant request on the [booking form](/forms/R58_Lounge_Booking.pdf). We charge £15 per hour for a trained staff member to run the bar during your event."
     show: true
   - question: "Excellent. What about cleaning / tidying up?"
     answer: "Well, as a responsible and courteous user of the RecSoc you will be only too happy to return everything to the state it was in when you arrived! This includes disposing of rubbish in black sacks, sorting any recycling correctly, and giving the floor a hoover if it needs it. If you hire the BBQ there are additional guidelines to this effect."
-    show: true
-  - question: ""
-    answer: ""
-    show: true
-  - question: ""
-    answer: ""
-    show: true
-  - question: ""
-    answer: ""
-    show: true
-  - question: ""
-    answer: ""
     show: true
 ---
