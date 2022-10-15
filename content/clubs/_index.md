@@ -35,6 +35,9 @@ sections:
     - name: Aunt Sally
       image: aunt-sally.jpg
       url: aunt-sally/
+    - name: Basketball
+      image: basketball.jpg
+      url: basketball/
     - name: Fencing
       image: fencing.jpg
       url: fencing/
