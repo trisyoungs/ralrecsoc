@@ -1,6 +1,6 @@
 ---
 title: Clubs & Activities
-description: A full list of clubs and activities available at the RAL RecSoc.  Please note that, due to various events over the 2021/2022 period, not all clubs are currently up and running. However, please feel free to express your interest to the nominated club representatives.
+description: A full list of clubs and activities available at the RAL RecSoc.  Please note that, due to various events over the 2021/2022 period, not all clubs are currently up and running. However, please feel free to express your interest to the relevant club contacts.
 background-image: bg.jpg
 sections:
   - name: "Fitness Training"

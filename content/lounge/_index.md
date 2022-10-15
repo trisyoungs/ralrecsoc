@@ -16,6 +16,6 @@ resources:
   description: "The R58 Lounge has it's own section in the [FAQ](/faq/) covering commonly-asked questions."
 ---
 
-The recently-refurbished lounge offers a welcoming space to hang out in with your colleagues, or to use for quiet meeting. Our fully-licensed bar is open most lunchtimes for the sale for snacks, soft drinks, hot drinks, and alcoholic beverages, and we have a relatively large outdoor green space with picnic tables for your use.
+The recently-refurbished lounge offers a welcoming space to hang out in with your colleagues, or to use for a quiet meeting. Our fully-licensed bar is open most lunchtimes for the sale for snacks, soft drinks, hot drinks, and alcoholic beverages, and we have a relatively large outdoor green space with picnic tables for your use. Indoors we have a free-to-play pool table and dartboard, plus a variety of table-top games and puzzles available on request.
 
 The Lounge is used by some clubs as a working space during some lunchtimes, but don't be shy - come and see what they're up to!
