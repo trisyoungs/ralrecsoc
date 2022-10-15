@@ -50,8 +50,8 @@ disableKinds = ['taxonomy', 'term']
 
   # Hero section
   [params.hero]
-    title = "Health. Wellbeing. Balance."
-    subtitle = 'The RAL Recreational Society exists to provide the staff of [STFC Rutherford Appleton Laboratory](https://www.ukri.org/about-us/stfc/locations/rutherford-appleton-laboratory/) and the surrounding [Harwell Campus](https://www.harwellcampus.com/) health, wellbeing, and sports facilities in order to provide a much needed balance to the world-class science, technology, and engineering we produce.'
+    title = "Health. Well-being. Balance."
+    subtitle = 'The RAL Recreational Society exists to provide the staff of [STFC Rutherford Appleton Laboratory](https://www.ukri.org/about-us/stfc/locations/rutherford-appleton-laboratory/) and the surrounding [Harwell Campus](https://www.harwellcampus.com/) health, well-being, and sports facilities in order to provide a much needed balance to the world-class science, technology, and engineering we produce.'
     background-image = "bg.jpg"
 
   # Intro section
