@@ -45,16 +45,4 @@ faq:
   - question: "Excellent. What about cleaning / tidying up?"
     answer: "Well, as a responsible and courteous user of the RecSoc you will be only too happy to return everything to the state it was in when you arrived! This includes disposing of rubbish in black sacks, sorting any recycling correctly, and giving the floor a hoover if it needs it. If you hire the BBQ there are additional guidelines to this effect."
     show: true
-  - question: ""
-    answer: ""
-    show: true
-  - question: ""
-    answer: ""
-    show: true
-  - question: ""
-    answer: ""
-    show: true
-  - question: ""
-    answer: ""
-    show: true
 ---
