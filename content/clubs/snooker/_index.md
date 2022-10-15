@@ -12,4 +12,4 @@ people:
     email: "david.farrell@stfc.ac.uk"
 ---
 
-A full-size snooker table is available to for the use of registered Snooker Club members, located in the annexe of the R58 building.
+A full-size snooker table is available for the use of registered Snooker Club members, located in the annexe of the R58 building.
