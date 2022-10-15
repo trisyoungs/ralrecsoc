@@ -60,7 +60,7 @@ disableKinds = ['taxonomy', 'term']
 
   [[params.intro.item]]
     title = "Sports"
-    description = "From our on-site gym and sports hall to our external tennis courts, there's sure to be something to help you get active."
+    description = "From our on-site gym and sports hall to our external tennis courts and sports field, there's sure to be something to help you get active."
     url = "/clubs/"
     button = "Learn More"
     icon = "icon-trophy"
