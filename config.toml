@@ -76,7 +76,7 @@ disableKinds = ['taxonomy', 'term']
 
   [[params.intro.item]]
     title = "Social"
-    description = "The RecSoc Lounge is available to book for work meetings, leaving parties, and social events, and is fully licensed."
+    description = "The RecSoc Lounge is a social area available to our members, and can be booked for work meetings, leaving parties, and social events, and is fully licensed."
     url = "/lounge/"
     button = "Learn More"
     icon = "icon-people"
