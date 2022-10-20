@@ -5,15 +5,15 @@ background-image: bg.jpg
 trio:
 - title: "Full"
   description: "STFC employees (e.g. full-time staff, contractors, or associated students)"
-  icon: "icon-trophy"
+  icon: "icon-people"
   img: "img_7.jpg"
 - title: "Affiliate"
   description: "Staff of affiliated companies on the Campus"
-  icon: "icon-trophy"
+  icon: "icon-people"
   img: "img_7.jpg"
 - title: "Associate"
   description: "Employees of all other institutions & companies on the Campus"
-  icon: "icon-trophy"
+  icon: "icon-user-follow"
   img: "img_7.jpg"
 ---
 
