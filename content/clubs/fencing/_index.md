@@ -10,6 +10,10 @@ people:
     image: rose.jpg
     position: "Contact"
     email: "austen.rose@diamond.ac.uk"
+  - name: "Paul Hathaway"
+    image: hathaway.jpg
+    position: "Contact"
+    email: "paul.hathaway@diamond.ac.uk"
 ---
 
 The RAL Fencing Club is a small friendly club that welcomes complete beginners and experienced fencers alike. Our instructor, Austen Rose, has been coaching for many years and holds British Academy of Fencing level 3 awards at foil, epee and sabre.
