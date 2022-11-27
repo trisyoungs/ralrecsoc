@@ -17,7 +17,7 @@ faq:
     answer: "The Lounge bar is open Tuesday to Friday from 12 - 2 pm."
     show: true
   - question: "So... beer?"
-    answer: "Amongst other things, yes! As well as alcoholic beverages we have soft drinks, hot drinks, and snacks. Of course, we expect any alcoholic drinks to be consumed responsibly and on the RecSoc premises, and we operate a strict [Challenge 25](https://wsta.co.uk/challenge-25/) policy."
+    answer: "Amongst other things, yes! As well as alcoholic beverages we have non-alcoholic options, soft drinks, hot drinks, and snacks. Of course, we expect any alcoholic drinks to be consumed responsibly and on the RecSoc premises, and we operate a strict [Challenge 25](https://wsta.co.uk/challenge-25/) policy."
     show: true
   - question: "OK, so what else is in the Lounge?"
     answer: "Big TV, comfy seats, plants, a pool table, dartboard, and artwork created by our own [Arts & Crafts](/clubs/arts-crafts/) club."
@@ -25,6 +25,12 @@ faq:
   - question: "I heard there's a barbecue there too?"
     answer: "Yes there is. In 2022 we purchased a shiny new gas-fuelled outdoor kitchen which you can use for a gathering or leaving do by prior arrangement. Fill out the [lounge booking form](/forms/R58_Lounge_Booking.pdf) to get the ball rolling."
     show: true
+- name: "Membership"
+  questions:
+  - question: "As a member, can I bring in guests?"
+    answer: "Yes. Please refer to the [Society Rules](/general/RALRecSoc_Rules_2022.pdf)."
+  - question: "I'm not yet a member - can I try out an activity / taster session before I join?"
+    answer: "Yes
 - name: "Hiring the RecSoc for Events"
   questions:
   - question: "Can I host a party / leaving do / private gathering using the RecSoc facilities?"
@@ -34,7 +40,7 @@ faq:
     answer: "Indeed we do! It is for indoor use only and, while it is regularly inspected according to [PIPA](https://www.pipa.org.uk/) standards, it is used at the hirer's risk. We provide padded mats to surround the castle when in use."
     show: true
   - question: "Can I hire the Lounge at any time, or only during work hours?"
-    answer: "You can hire the Lounge during work hours on a weekday, in the evenings, or at weekends. Bear in mind that during work hours there is unlikely to be any parking available. Conversely, for weekend events you will need to contact RAL Security and arrange with them to open up the barriers on Road Five in order to access the building."
+    answer: "You can hire the Lounge during work hours on a weekday, in the evenings, or at weekends, however we cannot guarantee exclusive use of the Lounge during weekday lunchtimes. Bear in mind that during work hours there is unlikely to be any parking available. Conversely, for weekend events you will need to contact RAL Security and arrange with them to open up the barriers on Road Five in order to access the building."
     show: true
   - question: "What's the maximum capacity of the Lounge?"
     answer: "With the normal table arrangement, approximately 50 seated. Moving the tables to the side gives you a capacity around 100 standing room only."
