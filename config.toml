@@ -91,7 +91,13 @@ disableKinds = ['taxonomy', 'term']
     description = "How to contact us, and where to find us."
 
     details = [
-        ["icon-home", "RAL Recreational Society, STFC Rutherford Appleton Laboratory, Building R58, Harwell Campus, Oxfordshire, OX11 0QX"],
+        ["icon-home", "RAL Recreational Society"],
+        ["", "STFC Rutherford Appleton Laboratory"],
+        ["", "Building R58"],
+        ["", "Harwell Campus"],
+        ["", "Oxfordshire"],
+        ["", "OX11 0QX"],
+        ["icon-phone", "01235 44 5808"],
         ["icon-envelope", "RecSocCommittee@stfc.ac.uk"]
       ]
 
