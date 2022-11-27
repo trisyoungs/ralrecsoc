@@ -76,7 +76,7 @@ disableKinds = ['taxonomy', 'term']
 
   [[params.intro.item]]
     title = "Social"
-    description = "The RecSoc Lounge is a social area available to our members, and can be booked for work meetings, leaving parties, and social events, and is fully licensed."
+    description = "The RecSoc Lounge is the social heart of R58, and can be booked for work meetings, leaving parties, and social events, and is fully licensed."
     url = "/lounge/"
     button = "Learn More"
     icon = "icon-people"
@@ -91,7 +91,13 @@ disableKinds = ['taxonomy', 'term']
     description = "How to contact us, and where to find us."
 
     details = [
-        ["icon-home", "RAL Recreational Society, STFC Rutherford Appleton Laboratory, Building R58, Harwell Campus, Oxfordshire, OX11 0QX"],
+        ["icon-home", "RAL Recreational Society"],
+        ["", "STFC Rutherford Appleton Laboratory"],
+        ["", "Building R58"],
+        ["", "Harwell Campus"],
+        ["", "Oxfordshire"],
+        ["", "OX11 0QX"],
+        ["icon-phone", "01235 44 5808"],
         ["icon-envelope", "RecSocCommittee@stfc.ac.uk"]
       ]
 
