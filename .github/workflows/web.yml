@@ -33,7 +33,6 @@ jobs:
         set -ex
         htmltest
     - name: Upload
-      if: github.ref == 'refs/heads/main'
       env:
         HOST_ID: ${{ secrets.SERVER_IDENTITY }}
         HOST_IP: ${{ secrets.SERVER_IP }}
@@ -41,6 +40,7 @@ jobs:
         USER_NAME: ${{ secrets.UPLOADER_NAME }}
         USER_ID: ${{ secrets.UPLOADER_IDENTITY }}
       run: |
+        set -ex
         echo "$USER_ID" > ./id_rsa
         chmod 0600 ./id_rsa
         echo "$HOST_ID" > ./host_id
