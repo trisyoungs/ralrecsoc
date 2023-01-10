@@ -22,7 +22,7 @@ Instructions on how to join the RAL RecSoc are given below.  If you have any que
 # Full / Affiliate Membership (via CSSC)
 ### Available to all employees of STFC (including contractors and students) and affiliated institutions
 
-Our standard membership is via the [Civil Service Sports Council](https://www.cssc.co.uk/) (CSSC) which entitles you to a huge range of discounts and benefits, as well as access to the RAL RecSoc and all of its clubs and facilities. This is the standard mechanism for joining the RAL RecSoc and is available to all STFC employees as well as our affiliate institutions - Diamond and the ESA. CSSC membership is **£4.50 / month**, paid by Direct Debit.
+Our standard membership is via the [Civil Service Sports Council](https://www.cssc.co.uk/) (CSSC) which entitles you to a huge range of discounts and benefits, as well as access to the RAL RecSoc and all of its clubs and facilities. This is the standard mechanism for joining the RAL RecSoc and is available to all STFC employees as well as our affiliate institutions - Diamond and the ESA. CSSC membership is **£4.99 / month**, paid by Direct Debit.
 
 #### 1) Go to the [CSSC website](https://www.cssc.co.uk/) and complete the [joining form](https://www.cssc.co.uk/join).
 
