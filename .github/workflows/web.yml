@@ -44,4 +44,5 @@ jobs:
         echo "$USER_ID" > ./id_rsa
         chmod 0600 ./id_rsa
         echo "$HOST_ID" > ./host_id
+        ssh -o UserKnownHostsFile=./host_id -i ./id_rsa -p 2212 -l $USER_NAME ${HOST_IP}
         rsync -axz --delete -e "ssh -o UserKnownHostsFile=./host_id -i ./id_rsa -p 2212 -l $USER_NAME" public/ ${HOST_IP}:${HOST_DEST_DIR}
