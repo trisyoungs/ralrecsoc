@@ -7,8 +7,8 @@ resources:
 - title: "Book the Lounge"
   show: true
   icon: icon-calendar
-  link: "/files/forms/R58_Lounge_Booking.pdf"
-  description: The Lounge can be booked for work or private events, inside or outside of work hours. Please fill out the [booking form](/files/forms/R58_Lounge_Booking.pdf) with your requirements.
+  link: "https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyIQBE67jOPlLjGRL0lX125tUMjBXTldMSFZKUFJQMzMyOE4xMlZYSTZQTyQlQCN0PWcu"
+  description: The Lounge can be booked for work or private events, inside or outside of work hours. Please fill out the [booking form](https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyIQBE67jOPlLjGRL0lX125tUMjBXTldMSFZKUFJQMzMyOE4xMlZYSTZQTyQlQCN0PWcu) with your requirements.
 - title: "FAQ"
   show: true
   icon: icon-question
