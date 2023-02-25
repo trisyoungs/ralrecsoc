@@ -21,4 +21,4 @@ resources:
   link: https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyH83nh8ZbexGvWwWS_bVVP9URUlSOUcxSklET0ZXWjBZSUVGN1BMVk5TWSQlQCN0PWcu
 ---
 
-Located in R58, our on-site gym has been recently modernised and its floor space extended. At present the equipment comprises free weights only, but over the next few months we are due to receive a significant new suite of machines and stations to make the room a real multi-use space.
+Located in R58, our on-site gym has been recently modernised and its floor space extended. At present the equipment comprises free weights only, but over the next few months we are due to receive a significant new suite of machines and stations to make the room a real multi-use space. Membership is £5/month, payable in advance for the calendar year.
