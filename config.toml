@@ -106,5 +106,5 @@ disableKinds = ['taxonomy', 'term']
     enable = true
     copyright = '&copy; RAL Recreational Society 2022. All Rights Reserved. Uses the _Elate_ theme created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> and ported to Hugo by <a href="https://github.com/saey55" target="_blank">saey55</a>'
     links = [
-        ["icon-facebook", "https://www.facebook.com/groups/315928308552499/"],
+        ["icon-social-facebook", "https://www.facebook.com/groups/315928308552499/"],
       ]
