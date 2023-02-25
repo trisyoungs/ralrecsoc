@@ -10,10 +10,10 @@ people:
     image: youngs.jpg
     position: "Chairperson"
     email: "tristan.youngs@stfc.ac.uk"
-  - name: "Ronnie Brumfitt"
+  - name: "Samantha Fedorenko"
     position: "Secretary"
-    image: brumfitt.jpg
-    email: "ronnie.brumfitt@stfc.ac.uk"
+    image: fedorenko.jpg
+    email: "samantha.fedorenko@stfc.ac.uk"
   - name: "Dan Beckett"
     position: "Treasurer"
     image: beckett.jpg
