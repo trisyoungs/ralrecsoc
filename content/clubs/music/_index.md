@@ -21,7 +21,7 @@ people:
 resources:
 - title: "Join"
   icon: icon-user-follow
-  description: Please fill out the [registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyA_pNqwwM-xEi5PZzLTPq4FUNEZVMzdSUTBGOEIyS1RVSDNMNVVMRVlNOCQlQCN0PWcu) to start the ball rolling. For informal enquiry contact one of the representatives listed above.
+  description: Please fill out the [registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyA_pNqwwM-xEi5PZzLTPq4FUNEZVMzdSUTBGOEIyS1RVSDNMNVVMRVlNOCQlQCN0PWcu) to start the ball rolling. For informal enquiries contact one of the representatives listed above.
   link: https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyA_pNqwwM-xEi5PZzLTPq4FUNEZVMzdSUTBGOEIyS1RVSDNMNVVMRVlNOCQlQCN0PWcu
 - title: "Book the Room"
   icon: icon-calendar
