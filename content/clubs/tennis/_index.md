@@ -15,6 +15,10 @@ people:
     position: "Contact"
     email: "pawala.ariyathilaka@stfc.ac.uk"
 resources:
+- title: "Join"
+  icon: icon-user-follow
+  description: To join the club please fill out the [registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyCRxyOZDcIlDgHOZAxBjK8hUMVpORTNXNVJEMDJPNEpRMDcxTEVUSjlTSS4u&wdLOR=cE9C5580E-33E4-49A9-84B5-3707A8D04546) and a member of the team will get back to you.
+  link: https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyCRxyOZDcIlDgHOZAxBjK8hUMVpORTNXNVJEMDJPNEpRMDcxTEVUSjlTSS4u&wdLOR=cE9C5580E-33E4-49A9-84B5-3707A8D04546
 - title: "Book a Court"
   icon: icon-calendar
   link: "https://ralrecsoc.skedda.com/"
