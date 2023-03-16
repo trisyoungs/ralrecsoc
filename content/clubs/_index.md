@@ -12,7 +12,7 @@ sections:
       hidden: true
       image: circuittraining.jpg
       url: circuit-training
-    - name: Wellness Rooms
+    - name: Wellness Centre
       image: wellness.jpg
       url: wellness/
   - name: "Mind & Body"

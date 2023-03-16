@@ -1,6 +1,6 @@
 ---
 type: club
-title: Wellness Rooms
+title: Wellness Centre
 description: Our on-site indoor fitness studios
 background-image: bg.jpg
 people:
@@ -21,6 +21,6 @@ resources:
   link: https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyH83nh8ZbexGvWwWS_bVVP9URUlSOUcxSklET0ZXWjBZSUVGN1BMVk5TWSQlQCN0PWcu
 ---
 
-Located in R58, our on-site Wellness Rooms offer a suite of strength equipment and cardio machines for use by its members. Installed in March 2023 thanks to generous funding from STFC, these new facilities provide convenient access to professional-grade equipment typically found in commercial gyms.
+Located in R58, our on-site Wellness Centre offer a suite of strength equipment and cardio machines for use by its members. Installed in March 2023 thanks to generous funding from STFC, these new facilities provide convenient access to professional-grade equipment typically found in commercial gyms. Inductions for new members will be provided by a member of the team.
 
 Membership is £5/month, payable in advance for the calendar year.
