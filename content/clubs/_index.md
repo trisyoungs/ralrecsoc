@@ -12,9 +12,9 @@ sections:
       hidden: true
       image: circuittraining.jpg
       url: circuit-training
-    - name: Gym
-      image: gym.jpg
-      url: gym/
+    - name: Fitness Centre
+      image: fitness.jpg
+      url: fitness/
   - name: "Mind & Body"
     items:
     - name: Morris Dancing
