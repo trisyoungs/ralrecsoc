@@ -1,6 +1,6 @@
 ---
 type: club
-title: Wellness Centre
+title: Fitness Centre
 description: Our on-site indoor fitness studios
 background-image: bg.jpg
 people:
