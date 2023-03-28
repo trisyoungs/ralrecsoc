@@ -23,4 +23,4 @@ resources:
 
 Located in R58, our on-site Wellness Centre offer a suite of strength equipment and cardio machines for use by its members. Installed in March 2023 thanks to generous funding from STFC, these new facilities provide convenient access to professional-grade equipment typically found in commercial gyms. Inductions for new members will be provided by a member of the team.
 
-Membership is £5/month, payable in advance for the calendar year.
+Membership is £5/month, payable in advance for the membership year.
