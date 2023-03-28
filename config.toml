@@ -32,6 +32,10 @@ disableKinds = ['taxonomy', 'term']
     #   name = "Home"
     #   weight = 1
     [[menu.postpend]]
+      url = "/agm/"
+      name = "AGM"
+      weight = 3
+    [[menu.postpend]]
       url = "/join/"
       name = "Join"
       weight = 5
