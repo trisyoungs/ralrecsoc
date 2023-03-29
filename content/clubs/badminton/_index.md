@@ -6,10 +6,14 @@ background-image: bg.jpg
 people:
   title: "Contacts"
   items:
-  - name: "Haroon Rafique"
-    image: rafique.jpg
+  - name: Ramzi Jalili
+    email: ramzi.jalili@stfc.ac.uk
     position: "Contact"
-    email: "haroon.rafique@stfc.ac.uk"
+    image: jalili.jpg
+  - name: Tom Ashbury
+    email: thomas.ashbury@stfc.ac.uk
+    position: "Contact"
+    image: ashbury.jpg
 ---
 
 The RAL Badminton Club provides a regular session for those interested in badminton to be able to play both socially and competitively. Sessions are held at the Abingdon Whitehorse Leisure Centre on Wednesdays from 17:30 to 19:30.
