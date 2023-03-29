@@ -68,7 +68,7 @@ sections:
     - name: Arts & Crafts
       image: arts-crafts.jpg
       url: arts-crafts/
-    - name: Music Club
+    - name: Music
       image: music.jpg
       url: music/
     - name: Photography
