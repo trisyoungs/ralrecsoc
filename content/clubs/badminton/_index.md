@@ -19,6 +19,10 @@ resources:
   icon: icon-user-follow
   description: Please fill out the [registration form](RAL%20Badminton%20Club%20Membership%20Form%202023.docx) which contains information on how to join as well as the club rules. For informal enquiries contact one of the representatives listed above.
   link: "./RAL Badminton Club Membership Form 2023.docx"
+- title: "Schedule"
+  icon: icon-calendar
+  description: We use [Spond](https://group.spond.com/FPLQV) to organise and schedule sessions, so join our group there to be kept updated.
+  link: https://group.spond.com/FPLQV
 ---
 
 The RAL Badminton Club provides a regular session for those interested in badminton to be able to play both socially and competitively. Sessions are held at the [Abingdon White Horse Leisure Centre](https://www.better.org.uk/leisure-centre/vale-of-white-horse/white-horse-leisure-and-tennis-centre) on Wednesdays from 17:30 to 19:30.
