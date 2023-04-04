@@ -17,7 +17,7 @@ people:
 resources:
 - title: "Join"
   icon: icon-user-follow
-  description: Please fill out the [registration form](RAL%20Badminton%20Club%20Membership%20Form%202023.docx) which contains information on how to join as well as the club rules. For informal enquiries contact one of the representatives listed above.
+  description: Please fill out the [registration form](RAL%20Badminton%20Club%20Membership%20Form%202023.docx) and send it to one of the contacts listed above. The form also contains the club rules. For informal enquiries contact one of the representatives listed above.
   link: "./RAL Badminton Club Membership Form 2023.docx"
 - title: "Schedule"
   icon: icon-calendar
