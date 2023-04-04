@@ -17,7 +17,7 @@ trio:
   img: "img_7.jpg"
 ---
 
-Instructions on how to join the RAL RecSoc are given below.  If you have any questions about the membership categories or eligibility, please email [RALRecSocMemSec@stfc.ac.uk](mailto:RALRecSocMemSec@stfc.ac.uk).
+Instructions on how to join the RAL RecSoc are given below.  If you have any questions about the membership categories or eligibility, please contact the [membership secretary](mailto:RALRecSocMemSec@stfc.ac.uk).
 
 # Full / Affiliate Membership (via CSSC)
 ### Available to all employees of STFC (including contractors and students) and affiliated institutions
