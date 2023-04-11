@@ -26,7 +26,7 @@ Our standard membership is via the [Civil Service Sports Council](https://www.cs
 
 #### 1) Go to the [CSSC website](https://www.cssc.co.uk/) and complete the [joining form](https://www.cssc.co.uk/join).
 
-#### 2) Once you receive confirmation of your membership from the CSSC, along with your membership number, please forward your confirmation email to the membership secretary at [RALRecSocMemSec@stfc.ac.uk](mailto:RALRecSocMemSec@stfc.ac.uk), making sure to state your CSSC membership number.
+#### 2) Once you receive confirmation of your membership from the CSSC, along with your membership number, please fill out the online registration form requesting a new [Full & Affiliate membership](https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyIQBE67jOPlLjGRL0lX125tURDlJNVFOTDVaOE1XQ0o5MVpRMVVBVEdTSCQlQCN0PWcu).
 
 #### 3) Your details will then be added to our database and mailing list, and a confirmation of this will be sent by return email, at which point you are officially a RAL RecSoc member.
 
