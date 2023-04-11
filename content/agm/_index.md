@@ -19,6 +19,11 @@ resources:
   icon: icon-doc
   link: "/files/AGM/2023/AGM2023-Items For Discussion Proposal Form.docx"
   description: "Submit an item for discussion at the meeting."
+- title: "Proposed Rule Changes"
+  show: true
+  icon: icon-doc
+  link: "/files/AGM/2023/AGM2023-Proposed Rule Changes.pdf"
+  description: "Full list of proposed changes to the RAL RecSoc rules"
 ---
 
 The 2023 RAL RecSoc Annual General Meeting will be held on Tuesday the 18th April at 12:30 prompt.
