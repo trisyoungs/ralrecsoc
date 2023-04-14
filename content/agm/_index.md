@@ -19,6 +19,11 @@ resources:
   icon: icon-doc
   link: "/files/AGM/2023/AGM2023-Items For Discussion Proposal Form.docx"
   description: "Submit an item for discussion at the meeting"
+- title: "RAL RecSoc Rules"
+  show: true
+  icon: icon-doc
+  link: "/files/RAL_RecSoc_Rules_2019.pdf"
+  description: "View a copy of the current RAL RecSoc rules"
 - title: "Proposed Rule Changes"
   show: true
   icon: icon-doc
