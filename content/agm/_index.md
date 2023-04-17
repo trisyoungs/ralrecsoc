@@ -14,6 +14,11 @@ resources:
   icon: icon-doc
   link: "/files/AGM/2023/AGM2023-Nomination Form.docx"
   description: "Nomination form for positions on the committee, including officers"
+- title: "Submitted Nominations"
+  show: true
+  icon: icon-doc
+  link: "/files/AGM/2023/AGM2023-Nominations for Officers and Committee Members.pdf"
+  description: "View the current list of nominations for positions on the RecSoc committee"
 - title: "Submit Item For Discussion"
   show: true
   icon: icon-doc
