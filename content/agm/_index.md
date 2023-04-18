@@ -14,11 +14,16 @@ resources:
   icon: icon-doc
   link: "/files/AGM/2023/AGM2023-Nominations for Officers and Committee Members.pdf"
   description: "View the current list of nominations for positions on the RecSoc committee"
-- title: "Submit Item For Discussion"
+- title: "Committee Reports"
   show: true
   icon: icon-doc
-  link: "/files/AGM/2023/AGM2023-Items For Discussion Proposal Form.docx"
-  description: "Submit an item for discussion at the meeting"
+  link: "/files/AGM/2023/AGM2023-Committee_Reports.pdf"
+  description: "Reports for the year from the committee"
+- title: "Club Reports"
+  show: true
+  icon: icon-doc
+  link: "/files/AGM/2023/AGM2023-Club_Reports.pdf"
+  description: "Reports for the year from various clubs at the society"
 - title: "RAL RecSoc Rules"
   show: true
   icon: icon-doc
