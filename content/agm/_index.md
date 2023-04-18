@@ -9,11 +9,6 @@ resources:
   icon: icon-book-open
   link: "/files/AGM/2023/AGM2023-Agenda.docx"
   description: Agenda for the meeting
-- title: "Nomination Form"
-  show: true
-  icon: icon-doc
-  link: "/files/AGM/2023/AGM2023-Nomination Form.docx"
-  description: "Nomination form for positions on the committee, including officers"
 - title: "Submitted Nominations"
   show: true
   icon: icon-doc
