@@ -17,7 +17,7 @@ trio:
   img: "img_7.jpg"
 ---
 
-Instructions on how to join the RAL RecSoc are given below.  If you have any questions about the membership categories or eligibility, please email [RALRecSocMemSec@stfc.ac.uk](mailto:RALRecSocMemSec@stfc.ac.uk).
+Instructions on how to join the RAL RecSoc are given below.  If you have any questions about the membership categories or eligibility, please contact the [membership secretary](mailto:RALRecSocMemSec@stfc.ac.uk).
 
 # Full / Affiliate Membership (via CSSC)
 ### Available to all employees of STFC (including contractors and students) and affiliated institutions
@@ -26,7 +26,7 @@ Our standard membership is via the [Civil Service Sports Council](https://www.cs
 
 #### 1) Go to the [CSSC website](https://www.cssc.co.uk/) and complete the [joining form](https://www.cssc.co.uk/join).
 
-#### 2) Once you receive confirmation of your membership from the CSSC, along with your membership number, please forward your confirmation email to the membership secretary at [RALRecSocMemSec@stfc.ac.uk](mailto:RALRecSocMemSec@stfc.ac.uk), making sure to state your CSSC membership number.
+#### 2) Once you receive confirmation of your membership from the CSSC, along with your membership number, please fill out the online registration form requesting a new [Full & Affiliate membership](https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyIQBE67jOPlLjGRL0lX125tURDlJNVFOTDVaOE1XQ0o5MVpRMVVBVEdTSCQlQCN0PWcu).
 
 #### 3) Your details will then be added to our database and mailing list, and a confirmation of this will be sent by return email, at which point you are officially a RAL RecSoc member.
 
@@ -35,9 +35,9 @@ Our standard membership is via the [Civil Service Sports Council](https://www.cs
 # Associate Membership
 ### Available to staff from other institutions and companies on the Campus
 
-The alternative mechanism for joining the RAL RecSoc is as an "Associated" member - this does not involve membership to the [CSSC](https://www.cssc.co.uk/) as it is either unavailable to you (since you are not employed by STFC or one of the affiliated bodies) or is not suitable (i.e. you are are only a short-term visitor to the Campus). As such it comes with none of the associated benefits of CSSC membership, and provides access to the RAL RecSoc and its clubs and activities only. Associate membership costs **£5 / month**, paid in advance for the membership year which runs from September 1st to August 31st.
+The alternative mechanism for joining the RAL RecSoc is as an "Associated" member - this does not involve membership to the [CSSC](https://www.cssc.co.uk/) as it is either unavailable to you (since you are not employed by STFC or one of the affiliated bodies) or is not suitable (i.e. you are are only a short-term visitor to the Campus). As such it comes with none of the associated benefits of CSSC membership, and provides access to the RAL RecSoc and its clubs and activities only. Associate membership costs **£5 / month**, paid in advance for the duration you request, up to 12 months. For those members wishing to join on an ongoing basis, membership is renewable yearly.
 
-#### 1) Fill in the [associate membership form](/files/forms/RAL_RecSoc_Associate_Membership-2022.docx) and email it to [RALRecSocMemSec@stfc.ac.uk](mailto:RALRecSocMemSec@stfc.ac.uk).
+#### 1) Fill in the online [associate membership form](https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyIQBE67jOPlLjGRL0lX125tUNDZKN0ZXWDEwNVJWOE9VSk5aUjJQTFVCNCQlQCN0PWcu).
 
 #### 2) The RAL RecSoc membership secretary will then contact you for payment.
 
