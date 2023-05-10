@@ -6,10 +6,10 @@ background-image: bg.jpg
 people:
   title: "Contacts"
   items:
-  - name: "Ronnie Brumfitt"
-    image: brumfitt.jpg
+  - name: "RecSoc Committee"
+    image: nobody.jpg
     position: "Contact"
-    email: "ronnie.brumfitt@stfc.ac.uk"
+    email: "RecSocCommittee@stfc.ac.uk"
 ---
 
 Yoga classes are held by our instructor Diana Reynolds, a qualified British Wheel of Yoga teacher who has been practicing yoga for over 15 years. The classes are designed to help improve strength and flexibility and to benefit from learning breathing and meditation techniques to give a fulfilling and relaxing experience. 
