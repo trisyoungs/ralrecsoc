@@ -47,6 +47,6 @@ jobs:
         USER_ID: ${{ secrets.SERVER_USER_CREDENTIALS }}
       run: |
         echo "$USER_ID" > ./id_rsa
-        chmod 0600 ./id_rsa
         echo "$HOST_ID" > ./host_id
+        chmod 0600 ./id_rsa ./host_id
         rsync -axz --delete -e "ssh -o UserKnownHostsFile=./host_id -i ./id_rsa -p 2212 -l $USER_NAME" public/ ${HOST_IP}:${HOST_DEST_DIR}
