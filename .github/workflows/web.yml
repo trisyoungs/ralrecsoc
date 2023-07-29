@@ -35,13 +35,13 @@ jobs:
     - name: Upload
       if: github.ref == 'refs/heads/main'
       env:
-        HOST_ID: ${{ secrets.SERVER_IDENTITY }}
-        HOST_IP: ${{ secrets.SERVER_IP }}
-        HOST_DEST_DIR: ${{ secrets.SERVER_DIRECTORY }}
-        USER_NAME: ${{ secrets.UPLOADER_NAME }}
-        USER_ID: ${{ secrets.UPLOADER_IDENTITY }}
+        HOST_ID: ${{ secrets.SERVER_HOST_KEY }}
+        HOST_IP: ${{ secrets.SERVER_IP_ADDRESS }}
+        HOST_DEST_DIR: ${{ secrets.SERVER_DESTINATION_DIR }}
+        USER_NAME: ${{ secrets.SERVER_USER }}
+        USER_ID: ${{ secrets.SERVER_USER_CREDENTIALS }}
       run: |
         echo "$USER_ID" > ./id_rsa
-        chmod 0600 ./id_rsa
         echo "$HOST_ID" > ./host_id
+        chmod 0600 ./id_rsa ./host_id
         rsync -axz --delete -e "ssh -o UserKnownHostsFile=./host_id -i ./id_rsa -p 2212 -l $USER_NAME" public/ ${HOST_IP}:${HOST_DEST_DIR}
