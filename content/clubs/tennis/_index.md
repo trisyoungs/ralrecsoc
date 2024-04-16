@@ -17,8 +17,8 @@ people:
 resources:
 - title: "Join"
   icon: icon-user-follow
-  description: To join the club please fill out the [registration form](https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyCRxyOZDcIlDgHOZAxBjK8hUMVpORTNXNVJEMDJPNEpRMDcxTEVUSjlTSS4u&wdLOR=cE9C5580E-33E4-49A9-84B5-3707A8D04546) and a member of the team will get back to you.
-  link: https://forms.office.com/Pages/ResponsePage.aspx?id=HDZmP36oWEGPYZnoLbPKyCRxyOZDcIlDgHOZAxBjK8hUMVpORTNXNVJEMDJPNEpRMDcxTEVUSjlTSS4u&wdLOR=cE9C5580E-33E4-49A9-84B5-3707A8D04546
+  description: To join the club please fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfdvRmipG39qaThk64k8ZkuLrcVEw4DwepcZ6I8FJZI3fsjXQ/viewform?usp=sf_link) and a member of the team will get back to you.
+  link: https://docs.google.com/forms/d/e/1FAIpQLSfdvRmipG39qaThk64k8ZkuLrcVEw4DwepcZ6I8FJZI3fsjXQ/viewform?usp=sf_link
 - title: "Book a Court"
   icon: icon-calendar
   link: "https://ralrecsoc.skedda.com/"
